@@ -62,7 +62,7 @@
       <div id="logo" class="pull-left">
         <h1><a href="index.html">Reve<span>al</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.html"><img src="assets/img/logo-bbd.png" alt=""></a>
+        <!-- <a href="index.html"><img src="assets/img/logo.png" alt=""></a>-->
       </div>
 
       <nav id="nav-menu-container">
